@@ -87,6 +87,11 @@ Canvas上での手描き迷路作成
 参考 figmaURL:
 https://www.figma.com/design/9uPz9qOcoVaf7e7ozmveoq/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?t=5YSd77W1D6At1qAr-1
 
+*注意：現在は画面遷移図にある以下のページは準備中です
+- 「Make Mazes！について」
+- 「利用規約」
+- 「プライバシーポリシー」
+
 ## ER図
 https://gyazo.com/019474c8611f0f5f0dd2683f0f282c4d
 
