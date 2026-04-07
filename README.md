@@ -99,5 +99,5 @@ https://gyazo.com/019474c8611f0f5f0dd2683f0f282c4d
 
 <img width="823" height="888" alt="Image" src="https://github.com/user-attachments/assets/d367903f-4ef2-42cc-9e8f-3095ab9d979a" />
 
-### PNGダウンロード後の出力例
-<img width="823" height="888" alt="Image" src="https://github.com/user
+### 画像ダウンロード（PNG）出力例
+<img width="823" height="888" alt="Image" src="https://github.com/user-attachments/assets/5584a2ca-7f5e-40a8-b105-92d1e799e191" />
