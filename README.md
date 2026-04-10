@@ -122,7 +122,8 @@ https://gyazo.com/019474c8611f0f5f0dd2683f0f282c4d
 <img width="600" height="315" alt="ポートフォリオ用TOP" src="https://github.com/user-attachments/assets/3f2099b7-5a84-447f-94d1-8b65b3619be6" />
 
 ### つかい方ガイドページ
-<img width="742" height="921" alt="スクリーンショット 2026-04-07 20 59 38" src="https://github.com/user-attachments/assets/bea77bb4-532e-4c5a-b359-d2d5731d52b8" />
+<img width="600" height="775" alt="つかい方ガイド" src="https://github.com/user-attachments/assets/25e96265-1914-478c-a5b7-98fcaac5d283" />
+
 
 ###  迷路エディタ画面
 <img width="742" height="518" alt="スクリーンショット 2026-04-07 23 19 57" src="https://github.com/user-attachments/assets/0e9077f4-e4f7-43f2-9c7a-ac3e8094c77f" />
