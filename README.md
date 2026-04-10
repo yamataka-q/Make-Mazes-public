@@ -119,7 +119,7 @@ https://gyazo.com/019474c8611f0f5f0dd2683f0f282c4d
 ---
 ## 9. 画面参考
 ### TOPページ
-<img width="1200" height="631" alt="MakeMazes1200-630" src="https://github.com/user-attachments/assets/d04c46db-a178-4e54-906d-419ab60397b4" />
+<img width="600" height="315" alt="ポートフォリオ用TOP" src="https://github.com/user-attachments/assets/3f2099b7-5a84-447f-94d1-8b65b3619be6" />
 
 ### つかい方ガイドページ
 <img width="742" height="921" alt="スクリーンショット 2026-04-07 20 59 38" src="https://github.com/user-attachments/assets/bea77bb4-532e-4c5a-b359-d2d5731d52b8" />
