@@ -2,7 +2,7 @@
 __ワクワクできる迷路を作ろう！解こう！みんなでシェアしよう！__ 
 
 ## 公開URL
-https://make-mazes.onrender.com
+https://make-mazes-mvp-stable.onrender.com/
 
 ## このリポジトリについて
 
