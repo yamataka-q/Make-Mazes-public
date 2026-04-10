@@ -143,13 +143,12 @@ https://gyazo.com/019474c8611f0f5f0dd2683f0f282c4d
 
 
 ### 画像ダウンロード（PNG）出力例
-<img width="1200" height="1200" alt="8 イラスト迷路-question-" src="https://github.com/user-attachments/assets/c2b62185-4c95-48a4-8229-a107747e19e6" />
 
+#### 問題画像
+<img width="600" height="600" alt="8 イラスト迷路-question-" src="https://github.com/user-attachments/assets/4096b5fc-eabd-485c-b05b-bf7c65f97f22" />
 
-<img width="1828" height="1828" alt="イラスト迷路-answer-20260407-2320" src="https://github.com/user-attachments/assets/2b808cc2-60e5-4106-8575-255df1d9a2f3" />
-
-
-<img width="1828" height="1828" alt="8 イラスト迷路-question-" src="https://github.com/user-attachments/assets/9286e4a0-aeee-4afe-acc5-5b523c6d54c9" />
+#### 回答画像
+<img width="600" height="600" alt="9 イラスト迷路-answer-" src="https://github.com/user-attachments/assets/524ace43-f242-4400-8581-13ad6b0de4d8" />
 
 ## 10. 技術スタック
 
