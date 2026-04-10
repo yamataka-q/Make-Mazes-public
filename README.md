@@ -126,28 +126,30 @@ https://gyazo.com/019474c8611f0f5f0dd2683f0f282c4d
 
 
 ###  迷路エディタ画面
-<img width="742" height="518" alt="スクリーンショット 2026-04-07 23 19 57" src="https://github.com/user-attachments/assets/0e9077f4-e4f7-43f2-9c7a-ac3e8094c77f" />
-
+<img width="600" height="420" alt="3 迷路エディタ画面（描画中）" src="https://github.com/user-attachments/assets/291aadda-a869-40dd-8476-c1885c91c5f0" />
 
 ### 問題用プレビュー画面
-<img width="620" height="784" alt="スクリーンショット 2026-04-07 23 20 51" src="https://github.com/user-attachments/assets/c922defd-c44c-4b7f-921d-3bfda8b618ba" />
-
+<img width="620" height="784" alt="4 問題用プレビュー画面" src="https://github.com/user-attachments/assets/fb1e65cf-97aa-4407-b5b1-aeb7ec348cf4" />
 
 ### 解答用プレビュー画面
-<img width="620" height="784" alt="スクリーンショット 2026-04-07 23 20 55" src="https://github.com/user-attachments/assets/02ab4e9c-ffbe-4711-a448-af1eddeac9dc" />
+<img width="600" height="775" alt="5 回答用プレビュー画面" src="https://github.com/user-attachments/assets/8dfef72d-f035-4a40-b4aa-cce881ce3d46" />
 
 
 ### 印刷プレビュー画面
-<img width="620" height="896" alt="スクリーンショット 2026-04-07 23 21 10" src="https://github.com/user-attachments/assets/65aaad1e-7516-4b2a-a73b-b76290f95842" />
+<img width="600" height="880" alt="6 印刷プレビュー画面" src="https://github.com/user-attachments/assets/8da8239d-b6c8-4609-beef-5573de06ab28" />
 
 ### 印刷表示例　（Safari環境）
-<img width="768" height="718" alt="スクリーンショット 2026-04-07 23 21 37" src="https://github.com/user-attachments/assets/40ca3f8a-722a-47ac-8dd0-5b537c471617" />
+<img width="600" height="550" alt="7 印刷表示例" src="https://github.com/user-attachments/assets/0722dd50-faa4-457e-b832-2c7eb4fa74b1" />
 
 
 ### 画像ダウンロード（PNG）出力例
-<img width="1828" height="1828" alt="イラスト迷路-question-20260407-2320" src="https://github.com/user-attachments/assets/5496831b-b282-4cbb-a9c2-c993b4e10f02" />
+<img width="1200" height="1200" alt="8 イラスト迷路-question-" src="https://github.com/user-attachments/assets/c2b62185-4c95-48a4-8229-a107747e19e6" />
+
 
 <img width="1828" height="1828" alt="イラスト迷路-answer-20260407-2320" src="https://github.com/user-attachments/assets/2b808cc2-60e5-4106-8575-255df1d9a2f3" />
+
+
+<img width="1828" height="1828" alt="8 イラスト迷路-question-" src="https://github.com/user-attachments/assets/9286e4a0-aeee-4afe-acc5-5b523c6d54c9" />
 
 ## 10. 技術スタック
 
